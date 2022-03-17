@@ -42,7 +42,7 @@ function App() {
           <p className='countdown--apy'>Until APY 383,025.80% changes</p>
         </div>
       )}
-      <a href='https://safuu.com/' target='_blank'>
+      <a href='https://safuu.com/' rel='noopener noreferrer' target='_blank'>
         <button className='button--website'>Visit Safuu</button>
       </a>
     </div>
