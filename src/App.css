@@ -1,0 +1,43 @@
+body {
+  background-image: linear-gradient(180deg, #000000 20%, #3c5e3c 85%);
+  height: 100vh;
+}
+
+.App {
+  text-align: center;
+  margin-top: 300px;
+}
+
+.countdown--timer,
+.countdown--header,
+.countdown--apy {
+  color: whitesmoke;
+  font-family: 'Lato', sans-serif;
+}
+
+.countdown--header {
+  font-size: 3rem;
+}
+
+.countdown--timer {
+  font-size: 2rem;
+  color: #f96d64;
+}
+
+.countdown--apy {
+  font-size: 1.5rem;
+  font-style: light;
+  color: #61ce70;
+}
+
+.button--website {
+  margin-top: 20px;
+  height: 50px;
+  width: 200px;
+  background-color: transparent;
+  color: whitesmoke;
+  border: 2px solid whitesmoke;
+  border-radius: 5px;
+  font-size: 1.25rem;
+  cursor: pointer;
+}
